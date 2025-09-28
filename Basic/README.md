@@ -5,7 +5,4 @@
 3. **Find the maximum element in a list without using built-in functions.**
 4. **Count the frequency of each character in a string using a dictionary.**
 5. **Remove duplicates from a list while preserving order.**
-
-
-
-
+6. **Implement linear search on an unsorted list.**

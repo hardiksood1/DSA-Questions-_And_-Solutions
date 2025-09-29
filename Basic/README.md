@@ -6,3 +6,5 @@
 4. **Count the frequency of each character in a string using a dictionary.**
 5. **Remove duplicates from a list while preserving order.**
 6. **Implement linear search on an unsorted list.**
+7. **Swap two variables without using a temporary variable.**
+8. **Check if a number is prime using a simple loop**

@@ -8,3 +8,4 @@
 6. **Implement linear search on an unsorted list.**
 7. **Swap two variables without using a temporary variable.**
 8. **Check if a number is prime using a simple loop**
+9. **Generate the first n Fibonacci numbers using iteration.**

@@ -1,4 +1,4 @@
-# Advance python DSA problems and solutions
+# Intermediate python DSA problems and solutions
 ---
 
 1. **Implement a singly linked list with insert and delete operations.**
@@ -13,3 +13,4 @@
 
 A singly linked list is a linear data structure where each element (node) points to the next one, forming a chain.
 ---
+

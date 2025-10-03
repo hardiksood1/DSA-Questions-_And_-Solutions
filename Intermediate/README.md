@@ -10,8 +10,10 @@
 - Delete a node by value
 
 - Display the linked list
--- **A singly linked list is a linear data structure where each element (node) points to the next one, forming a chain.**
+
+- **A singly linked list is a linear data structure where each element (node) points to the next one, forming a chain.**
 ---
+
 
 
 

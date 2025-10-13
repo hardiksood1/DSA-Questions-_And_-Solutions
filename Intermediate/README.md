@@ -7,9 +7,10 @@
 4. **Implement quicksort on an array.**
 5. **Implement a segment tree for range sum queries and updates.**
 6. **Implement a stack using two queues.**
-7. 
+7. **Implement a queue using two stacks.**
 
 ---
+
 
 
 
